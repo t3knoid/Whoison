@@ -1,0 +1,5 @@
+E:\Workarea\Whoison\Externals\bin\Debug\Externals.dll
+E:\Workarea\Whoison\Externals\bin\Debug\Externals.pdb
+E:\Workarea\Whoison\Externals\obj\Debug\Externals.csprojResolveAssemblyReference.cache
+E:\Workarea\Whoison\Externals\obj\Debug\Externals.dll
+E:\Workarea\Whoison\Externals\obj\Debug\Externals.pdb
