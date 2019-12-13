@@ -68,7 +68,10 @@ namespace Externals
                         {
                             Externals.WTSQuerySessionInformation(serverHandle, si.SessionID, Externals.WTS_INFO_CLASS.WTSUserName, out userPtr, out bytes);
                             Externals.WTSQuerySessionInformation(serverHandle, si.SessionID, Externals.WTS_INFO_CLASS.WTSConnectState, out connectStatePtr, out bytes);
-                            resultList.Add(Marshal.PtrToStringAnsi(userPtr) + " " + si.State);
+                            if (si.State == Externals.WTS_CONNECTSTATE_CLASS.WTSActive)
+                            {
+                                resultList.Add(Marshal.PtrToStringAnsi(userPtr));
+                            }
                         }
                     }
 
