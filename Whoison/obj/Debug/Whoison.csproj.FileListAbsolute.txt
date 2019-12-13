@@ -1,9 +1,0 @@
-E:\Workarea\Whoison\Whoison\bin\Debug\Whoison.exe.config
-E:\Workarea\Whoison\Whoison\obj\Debug\Whoison.csprojResolveAssemblyReference.cache
-E:\Workarea\Whoison\Whoison\obj\Debug\Externals.MainForm.resources
-E:\Workarea\Whoison\Whoison\obj\Debug\Externals.Properties.Resources.resources
-E:\Workarea\Whoison\Whoison\obj\Debug\Whoison.csproj.GenerateResource.Cache
-E:\Workarea\Whoison\Whoison\bin\Debug\Whoison.exe
-E:\Workarea\Whoison\Whoison\bin\Debug\Whoison.pdb
-E:\Workarea\Whoison\Whoison\obj\Debug\Whoison.exe
-E:\Workarea\Whoison\Whoison\obj\Debug\Whoison.pdb
